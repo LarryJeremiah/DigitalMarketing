@@ -6,4 +6,4 @@ Disallow: /categories.html
 Disallow: /signup.html
 Disallow: /login.html
 
-Sitemap: https://www.xml-sitemaps.com/sitemap.xml
+Sitemap: https://larryjeremiah.github.io/DigitalMarketing/sitemap.xml
