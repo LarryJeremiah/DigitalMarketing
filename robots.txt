@@ -1,1 +1,9 @@
+User-agent: *
+Allow: /index.html
+Allow: /blog.html
 
+Disallow: /categories.html
+Disallow: /signup.html
+Disallow: /login.html
+
+Sitemap: https://www.xml-sitemaps.com/sitemap.xml
