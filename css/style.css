@@ -153,6 +153,52 @@ ol {
 }
 /*=====================================*/
 
+/*==================LANDINGPAGE=================*/
+h1, h2, h3, h4{
+	color: #fff;
+}
+
+#animeStyle{
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+}
+
+.h2_landingpage{
+	margin-bottom: 5rem;
+}
+
+.row.text-center.articles{
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+}
+
+.watchnow{
+	display: flex;
+	width: 150rem;
+	margin-bottom: 4rem;
+}
+
+.watchnow img{
+	max-width: 20rem;
+	margin-left: 2rem;
+}
+
+.watchnow p{
+	text-align: left;
+}
+
+.btn{
+	margin-top: 2rem;
+}
+
+#boruto{
+	margin-bottom: 2rem;
+}
+
+/*==============================================*/
+
 .section-title {
 	margin-bottom: 30px;
 }
